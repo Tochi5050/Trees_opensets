@@ -30,3 +30,4 @@ class Solution:
                 final_arr.append(node.val)
                 node.visited = True
         return final_arr
+
